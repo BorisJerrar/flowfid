@@ -9,12 +9,12 @@ Un plat trop salé, un accueil chaleureux? Vos clients, lors de l’addition sur
 
 # Mockup
 
-![Waventure Logo](https://github.com/BorisJerrar/flowfid/blob/master/mockup-logo/costumerview.png)
-![Waventure Logo](https://github.com/BorisJerrar/flowfid/blob/master/mockup-logo/managerview.png)
+![Flowfid Logo](https://github.com/BorisJerrar/flowfid/blob/master/mockup-logo/costumerview.jpg)
+![Flowfid Logo](https://github.com/BorisJerrar/flowfid/blob/master/mockup-logo/managerview.jpg)
 
 ## Website:
 
-[FR/ Waventure](https://www.flowfid.com)
+[FR/ Flowfid](https://www.flowfid.com)
 
 ## Contributor
 
